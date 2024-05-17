@@ -22,7 +22,7 @@ Follow these steps to set up and use Pettah AI Offline:
 
 ### Step 3: Download Node Server and Install
 
-1. Download the Node.js server from [Node.js official website](https://nodejs.org/).
+1. Download the Node.js server from [Node.js official website](https://nodejs.org/en/download/prebuilt-installer).
 2. Install Node.js on your computer.
 
 ### Step 4: Run the One-Time Setup Script
