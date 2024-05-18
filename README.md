@@ -10,7 +10,8 @@ Follow these steps to set up and use Pettah AI Offline:<br>
 
 ### Step 1: Download Required Files<br>
 
-1. Download the following three files:<br>
+1. Download the following three files:
+
    - File 1: [downlode link 1](https://drive.google.com/file/d/13HEfHGSJfWXed89hTg97cZwaqNU90jpL/view?usp=sharing)<br>
    - File 2: [downlode link 2 ](https://drive.google.com/file/d/1kMIGq9K75hIal8K4EJesnR5ARzQclnmp/view?usp=sharing)<br>
    - File 3: [downlode link 3](https://drive.google.com/file/d/1sXaYog7Be2wpKqU686EXYXzgMwxEYAIe/view?usp=sharing)<br>
