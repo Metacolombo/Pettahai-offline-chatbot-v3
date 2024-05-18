@@ -40,7 +40,28 @@ Follow these steps to set up and use Pettah AI Offline:
 
 Well done! You have successfully set up Pettah AI Offline.
 
+## Do you have a .bat file run error? Use these steps to resolve it:
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/Metacolombo/Pettahai-offline-chatbot-v3/assets/167883376/d1a183ec-2e0e-4fba-b4ed-b97091114143" alt="Screenshot" width="400"/><br>
+    <p>Step 1: Click "More info" on the warning screen.</p>
+  </div><br>
+  <div style="text-align: center;">
+    <img src="https://github.com/Metacolombo/Pettahai-offline-chatbot-v3/assets/167883376/7ac70f3f-263a-4e94-a145-c8cbd78194a5" alt="Screenshot" width="400"/><br>
+    <p>Step 2: Click "Run anyway" to bypass the security warning and execute the .bat file.</p>
+  </div>
+</div><br>
+
+
+
+
+
+
+
+
 ## Developer Information
+
 
 - Developer: Seja Menath De Silva
 - Year: 2024
