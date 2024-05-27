@@ -2,7 +2,7 @@
 
 ## Pettah AI Offline is an offline AI chatbot that allows you to interact with an AI model without an internet connection.<br>
 
-![a-creative-and-futuristic-desktop-setup-featuring--2mVFC9ItQ9KUl-9lRrzpfw-YkpUu7k8Rw-hZvm72lhbxA](https://github.com/Metacolombo/Pettahai-offline-chatbot-v3/assets/167883376/93e41e0f-b611-4744-85d4-d291facc931e)<br>
+![offlineai](https://github.com/Metacolombo/Pettahai-offline-chatbot-v3/assets/167883376/85b56f87-f7fe-4441-a11f-73a845e3c084)<br>
 
 ## How to Use<br>
 
