@@ -68,3 +68,4 @@ Well done! You have successfully set up Pettah AI Offline.<br>
 
 - Developer: Seja Menath De Silva
 - Year: 2024
+- Date: 05/08
